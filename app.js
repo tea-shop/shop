@@ -3,7 +3,7 @@ App({
   onLaunch: function () {
     console.log('test');
     var that = this;
-    //  获取商城名称
+    //  获取商城名称 这边由于接口为第三方，所以静态写死
     wx.request({
       url: 'https://api.it120.cc/'+ that.globalData.subDomain +'/config/get-value',
       data: {
