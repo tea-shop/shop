@@ -38,7 +38,7 @@
         "pagePath": "pages/order-list/index",
         "iconPath": "images/nav/order-off.png",
         "selectedIconPath": "images/nav/order-on.png",
-        "text": "订单"
+        "text": "订单1"
       }
     ]
   },
