@@ -26,13 +26,13 @@
         "pagePath": "pages/index/index",
         "iconPath": "images/nav/home-off.png",
         "selectedIconPath": "images/nav/home-on.png",
-        "text": "首页"
+        "text": "首页1"
       },
       {
         "pagePath": "pages/shop-cart/index",
         "iconPath": "images/nav/cart-off.png",
         "selectedIconPath": "images/nav/cart-on.png",
-        "text": "购物车"
+        "text": "购物车2"
       },
       {
         "pagePath": "pages/order-list/index",
